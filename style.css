@@ -1,0 +1,44 @@
+body {
+  font-family: 'Alkalami', serif;
+  text-align: center;
+  margin: 0;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+#hero img {
+margin-bottom: 72px;
+height: auto;
+width: 592px;
+}
+
+h1 {
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+span, a {
+  color: #FF9900;
+}
+p, #fotter {
+  color: #7D7987;
+
+  font-size: 14px;
+  line-height: 28px;
+}
+#logo {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+
+  width: 200px;
+}
+
